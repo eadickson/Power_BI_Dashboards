@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to group. Using a *real world dataset of 2024 data science job postings* (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
+This dashboard was created for **Job Seekers** in general. Data about job market generally appear dispersed; the project from which this dashboard was created addresses the issue. The project groups a huge amount of data from a *real world dataset of 2024 data science job postings* (including titles, salaries, and locations, all kindly provided by Luke Barousse, data analysis expert and extraordinary educator). This dashboard is a single, easy-to-use interface that allows to explore job market trends and compensation. 
 
 ## Skills Showcased
 
@@ -27,16 +27,16 @@ This dashboard was created for **Job Seekers, Job Transitioners, and Job Swapper
 
     ![Dashboard Page 1](/images/Project1_Page1.png)
 
-    This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what is happening in the job market at a glance.
+    Here, find key KPIs like total job count, median salaries, and top job titles for a quick understanding at a glance of what is happening in the job market.
 
     ### Page 2: Job Title Drill Through
 
      ![Dashboard Page 2](/images/Project1_Page2.png)
 
-     This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platformes, and a global map of job locations.
+     Start a drill through on the Main Dashboard that will take you to this page, for a more in-depth view and specific details for each job title, including salary ranges, work-from-home stats, top hiring platformes, and a global map of job locations.
 
 ## Conclusion
 
-This dashboard showcases how Power bI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
+This project demonstrates how data visualization tools like Power BI can turn complex, scattered information into clear, actionable insights. By transforming a large dataset of real 2024 job postings into an interactive and accessible dashboard, the analysis empowers job seekers and career changers to explore the data job market with confidence. From identifying top-paying roles to understanding remote work trends and regional opportunities, this dashboard serves as a practical guide for navigating the evolving landscape of data-related careers. It also reflects the skills required for the project in data analysis, ETL, dashboard design, and storytelling through visuals.
 
 
