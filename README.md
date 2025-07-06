@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This dashboard was created for **Job Seekers** in general. Data about job market generally appear dispersed; the project from which this dashboard was created addresses the issue. The project groups a huge amount of data from a *real world dataset of 2024 data science job postings* (including titles, salaries, and locations, all kindly provided by Luke Barousse, data analysis expert and extraordinary educator). This dashboard is a single, easy-to-use interface that allows to explore job market trends and compensation. 
+This dashboard was created for **Job Seekers** in general. Data about job market generally appear dispersed; the project from which this dashboard was created addresses the issue. The project groups a huge amount of data from a *real world dataset of 2024 data science job postings* (including titles, salaries, and locations). This dashboard is a single, easy-to-use interface that allows to explore job market trends and compensation. 
 
 ## Skills Showcased
 
@@ -34,6 +34,10 @@ This dashboard was created for **Job Seekers** in general. Data about job market
      ![Dashboard Page 2](/images/Project1_Page2.png)
 
      Start a drill through on the Main Dashboard that will take you to this page, for a more in-depth view and specific details for each job title, including salary ranges, work-from-home stats, top hiring platformes, and a global map of job locations.
+
+### Acknowledgement
+
+Many thanks to Luke Barousse, data analysis expert and extraordinary educator, for providing datasets and training for this project.
 
 ## Conclusion
 
