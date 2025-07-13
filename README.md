@@ -22,3 +22,6 @@ Each dashboard below has its own README file, where you can find more informatio
 * Dashboard Layout & Design
 
 [**View Full Project 1 Details (README)**](/Data_Jobs_D2/README.md)
+
+### Acknowledgement
+Many thanks to Luke Barousse, data analysis expert and extraordinary educator!
