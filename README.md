@@ -10,7 +10,7 @@ Each dashboard below has its own README file, where you can find more informatio
 
 # ![Data Jobs DB GIF](images\Project1_Page1.png)
 
-[**View Interactive Dashboard on Power BI Service**](https://github.com/eadickson/Power_BI_Dashboards.git)
+[**View Interactive Dashboard on Power BI Service**](https://app.powerbi.com/links/kEtmsO-5_K?ctid=b8e8d71a-947d-41dd-81dd-8401dcc51007&pbi_source=linkShare)
 
 **Key Power BI Skills In This Project**
 * Data Modeling & Table Relationships
